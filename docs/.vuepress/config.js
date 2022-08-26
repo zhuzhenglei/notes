@@ -27,7 +27,7 @@ module.exports = {
         autoCreateIssue: true,
         clientId: "Iv1.4853511d3a96acdb",
         clientSecret: "c09d45fd61996f46947a65bf35d8d9db24082009",
-        owner: "eryajf",
+        owner: "zhuzhenglei",
         repo: "notes",
       },
     ],
